@@ -13,6 +13,13 @@ By submitting code or other contributions to Oreon repositories, you confirm tha
 
 Contributions that violate copyright or licensing requirements cannot be accepted.
 
+## Licensing
+All Oreon repositories must include a license file.
+
+Allowed licenses include GPLv2, GPLv3, MIT, or other licenses approved by the Oreon project leader.
+
+Repositories should prefer GPLv3 unless there is a specific reason to use another license.
+
 ## Licensing agreement
 All contributions included in Oreon must follow the license of the repository they are submitted to.
 
