@@ -1,0 +1,51 @@
+# Oreon Contribution Policy
+Anyone may contribute to Oreon. Contributions can include code, packaging, documentation, testing, design work, or bug reports.
+
+Clear rules help make sure contributions can safely become part of the project.
+
+## Ownership of contributions
+Contributors must only submit work that they have the legal right to contribute.
+
+By submitting code or other contributions to Oreon repositories, you confirm that:
+
+- the work is your original contribution, or  
+- you have permission to submit the work under the project license  
+
+Contributions that violate copyright or licensing requirements cannot be accepted.
+
+## Licensing agreement
+All contributions included in Oreon must follow the license of the repository they are submitted to.
+
+By submitting a pull request, patch, or other contribution to an Oreon repository, you agree that your contribution will be distributed under the same license as the repository.
+
+This ensures that all project code remains legally consistent.
+
+## Development repositories
+Official Oreon development happens in the project's public repositories.
+
+Contributors may use personal repositories during development. However, code intended to become part of Oreon must eventually be submitted to the official Oreon repositories.
+
+Once code is merged into an Oreon repository, it becomes part of the project and is governed by the project license.
+
+## Pull requests
+Pull requests should clearly explain the purpose of the change.
+
+Contributors should include:
+
+- a clear description of the change  
+- a reasonable commit history
+- any relevant testing information
+
+Maintainers may request changes before accepting a contribution.
+
+Not every contribution will be accepted.
+
+## Maintainer responsibilities
+Maintainers are responsible for protecting the stability and direction of the project.
+
+Maintainers may:
+
+- review and merge contributions
+- request changes to proposed work
+- reject contributions that do not align with project goals
+- revert changes that cause problems
