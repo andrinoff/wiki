@@ -8,14 +8,10 @@ Understand the support lifecycle of Oreon Lime (R2) and plan your deployments ac
 
 | Product | Release Date | End of Mainstream Support | End of Support |
 |---------|--------------|---------------------------|----------------|
-| Oreon Lime (R2) | Feb 18, 2024 | Jun 1, 2027 | May 31, 2032 |
+| Oreon Lime (R2) | Feb 18, 2024 | May 1, 2026 | May 31, 2032 |
 
-:::info Mainstream Support
-**Mainstream Support** includes regular updates, new features, security patches, and bug fixes.
-:::
-
-:::warning Extended Support
-**Extended Support** (between End of Mainstream Support and End of Support) includes critical security updates and selected bug fixes only.
+:::warning End of Mainstream Support
+Oreon Lime (R2) has reached end of mainstream support on May 1, 2026 with build 2504 being the final build. This means you will no longer receive new features and design changes to your OS experience. However; security support continues until May 31, 2032.
 :::
 
 ## Versions
@@ -29,4 +25,4 @@ Understand the support lifecycle of Oreon Lime (R2) and plan your deployments ac
 | Release 2 September Update (R2) | Sep 30, 2024 | Jan 1, 2025 |
 | Build 2501 | Jan 1, 2025 | Mar 9, 2025 |
 | Build 2503 | Mar 9, 2025 | Apr 19, 2025 |
-| Build 2504 | Apr 19, 2025 | Supported |
+| Build 2504 | Apr 19, 2025 | May 31, 2032 |
