@@ -10,14 +10,6 @@ Understand the support lifecycle of Oreon 10 and plan your deployments according
 |---------|--------------|---------------------------|----------------|
 | Oreon 10 | Dec 12, 2024 | Aug 20, 2030 | Jun 1, 2035 |
 
-:::info Mainstream Support
-**Mainstream Support** includes regular updates, new features, security patches, and bug fixes.
-:::
-
-:::warning Extended Support
-**Extended Support** (between End of Mainstream Support and End of Support) includes critical security updates and selected bug fixes only.
-:::
-
 ## Versions
 
 | Version | Start | End |
@@ -30,5 +22,6 @@ Understand the support lifecycle of Oreon 10 and plan your deployments according
 | Build 2507 | Jul 14, 2025 | Oct 12, 2025 |
 | Build 2510 | Oct 12, 2025 | Feb 9, 2026 |
 | Build 2602 | Feb 9, 2026 | Mar 1, 2026 |
-| Build 2603 | Mar 1, 2026 | Supported |
+| Build 2603 | Mar 1, 2026 | May 29, 2026 |
+| Build 2606 | May 29, 2026 | Supported |
 
