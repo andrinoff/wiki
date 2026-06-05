@@ -13,10 +13,7 @@ Oreon team includes several positions. Temporary contributors will not show up h
 - General Operations Coordinators
   - None at this time.
 
-## Teams
-We are currently re-organizing our team and waiting for new people to arrive. We unfortunately lost most of our team due to an incident that took place on February 5, 2026 and we are yet to recover from the loss.
-
-# Team information 
+# Teams 
 
 ### Management
 Responsible for recruiting new people onto the team and managing general operations for a specific range of team members. There will be more than one coordinator to manage a larger team in the future.
