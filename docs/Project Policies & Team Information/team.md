@@ -8,11 +8,11 @@ Oreon team includes several positions. Temporary contributors will not show up h
 
 ### Management
 - Recruitment Coordinators
-  - None at this time.
+  - None at this time
 
 - General Operations Coordinators
-  - None at this time.
-
+  - Drew Smirnoff (Jun 2026-PRESENT) - @andrinoff on GitHub
+  
 # Teams 
 
 ### Management
