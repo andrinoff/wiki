@@ -34,6 +34,13 @@ Contributors may use personal repositories during development. However, code int
 
 Once code is merged into an Oreon repository, it becomes part of the project and is governed by the project license.
 
+## Commit messages
+All commits must follow the [Conventional Commits](https://www.conventionalcommits.org) specification.
+
+Commit titles must be under 40 characters.
+
+Each commit must include a body that describes what the change does.
+
 ## Pull requests
 Pull requests should clearly explain the purpose of the change.
 
